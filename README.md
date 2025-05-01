@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m Kyle
 
-Welcome to my GitHub corner. I’m the type of developer who:
+## Welcome to my GitHub profile!
 
-## ☕ Let’s connect
+### ☕ Let’s connect
 I like cutting-edge technologies, gaming, binge-watching shows, and reading martial arts webtoons! Feel free to reach out:  
 📨 Email: kylehuang041@gmail.com  
 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/kyle-h/)  
@@ -16,14 +16,14 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 
 ---
 
-## 🔎 What I'm interested in studying next
+###🔎 What I'm interested in studying next
 
 - Topics: Parallel and Distributed Systems & Machine Learning
 - Techologies: Kubernetes, Docker, Kafka, Ray, etc.
 
 ---
 
-## 🧪 Tech I work with (and actually like)
+### 🧪 Tech I work with (and actually like)
 
 ```text
 Python · FastAPI · Node.js · JavaScript
