@@ -1,6 +1,5 @@
 # 👋 Hey there, I’m Kyle
-
-## Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ---
 
@@ -17,7 +16,7 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 
 ---
 
-###🔎 What I'm interested in studying next
+### 🔎 What I'm interested in studying next
 
 - Topics: Parallel and Distributed Systems & Machine Learning
 - Techologies: Kubernetes, Docker, Kafka, Ray, etc.
