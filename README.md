@@ -23,7 +23,7 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 
 ---
 
-### 🧪 Tech I work with (and actually like)
+### 🧪 Favorite Techstack, but flexible to use others as needed :)
 
 ```text
 Python · FastAPI · Node.js · JavaScript
