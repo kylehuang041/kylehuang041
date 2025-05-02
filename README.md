@@ -26,6 +26,6 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 ### 🧪 Favorite Techstack, but flexible to use others as needed :)
 
 ```text
-Python · FastAPI · Node.js · JavaScript
+Python · FastAPI · Node.js · JavaScript/TypeScript · Express.js
 PostgreSQL · Redis · React.js/Next.js
 Azure/AWS · Git  · VS Code · GitHub
