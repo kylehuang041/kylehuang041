@@ -21,7 +21,7 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 ### 🔎 What I'm interested in studying next
 
 - Topics: Parallel and Distributed Systems & Machine Learning
-- Techologies: Kubernetes, Docker, Kafka, Ray, etc.
+- Techologies: Kubernetes, Docker, Kafka, Ray, Task Queue, etc.
 
 ---
 
