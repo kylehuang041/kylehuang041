@@ -11,8 +11,8 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 💼 LinkedIn: [linkedin.com/in/kyle-h/](https://www.linkedin.com/in/kyle-h/)  
 🌱 Portfolio: [https://portfolio2-eta-flame.vercel.app](https://portfolio2-eta-flame.vercel.app)
 
-- 🧠 Loves solving real-world problems with clean, well-thought-out code.
-- ⚙️ Builds backends, breaks them, and fixes them better than before.
+- 🧠 Solving real-world problems with clean, well-thought-out code.
+- ⚙️ Building backend systems with scalability.
 - 📚 Thinks docs should be as elegant as the APIs they explain.
 - 🌍 Enjoys turning raw ideas into production-ready software.
 
