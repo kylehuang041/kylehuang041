@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 I like cutting-edge technologies, gaming, binge-watching shows, and reading martial arts webtoons! Feel free to reach out:  
 📨 Email: kylehuang041@gmail.com  
 💼 LinkedIn: [linkedin.com/in/kyle-h/](https://www.linkedin.com/in/kyle-h/)  
-🌱 Portfolio: [My Portfolio](https://portfolio2-eta-flame.vercel.app)
+🌱 Portfolio: [https://portfolio2-eta-flame.vercel.app](https://portfolio2-eta-flame.vercel.app)
 
 - 🧠 Loves solving real-world problems with clean, well-thought-out code.
 - ⚙️ Builds backends, breaks them, and fixes them better than before.
