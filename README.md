@@ -1,6 +1,8 @@
 # 👋 Hey there, I’m Kyle
 Welcome to my GitHub profile!
 
+I specialize in full-stack and AI development, and I enjoy learning new concepts and technologies to further my expertise. I'm familiar with team-based development and communication as I have multiple startup experience. I'm also quick to adapt to different technologies and team changes. So, I'm flexible and a learner.
+ 
 ---
 
 ### ☕ Let’s connect
