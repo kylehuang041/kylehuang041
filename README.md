@@ -21,7 +21,7 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 ### 🔎 What I'm interested in studying next
 
 - Topics: Parallel and Distributed Systems & Machine Learning
-- Techologies: Kubernetes, Docker, Kafka, Ray, Task Queue, etc.
+- Technologies: Kubernetes, Docker, Kafka, Ray, Task Queue, etc.
 
 ---
 
@@ -29,5 +29,5 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 
 ```text
 Python · FastAPI · Node.js · JavaScript/TypeScript · Express.js
-PostgreSQL · Redis · React.js/Next.js
-Azure/AWS · Git  · VS Code · GitHub
+PostgreSQL · Redis · React.js/Next.js· Docker · Parallel and distributed computing, scaling
+Azure/AWS · Git  · VS Code · GitHub· Azure Queue
