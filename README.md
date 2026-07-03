@@ -9,7 +9,7 @@ I specialize in full-stack and AI development, and I enjoy learning new concepts
 I like cutting-edge technologies, gaming, binge-watching shows, and reading martial arts webtoons! Feel free to reach out:  
 📨 Email: kylehuang041@gmail.com  
 💼 LinkedIn: [linkedin.com/in/kyle-h/](https://www.linkedin.com/in/kyle-h/)  
-🌱 Portfolio: [https://portfolio2-eta-flame.vercel.app](https://portfolio2-eta-flame.vercel.app)
+🌱 Portfolio: [https://github.com/kylehuang041](https://github.com/kylehuang041)
 
 - 🧠 Solving real-world problems with clean, well-thought-out code.
 - ⚙️ Building backend systems with scalability.
