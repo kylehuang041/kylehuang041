@@ -29,5 +29,5 @@ I like cutting-edge technologies, gaming, binge-watching shows, and reading mart
 
 ```text
 Python · FastAPI · Node.js · JavaScript/TypeScript · Express.js
-PostgreSQL · Redis · React.js/Next.js· Docker · Parallel and distributed computing, scaling
-Azure/AWS · Git  · VS Code · GitHub· Azure Queue
+PostgreSQL · Redis · React.js/Next.js· Docker · Google ADK
+Azure/AWS · Git  · VS Code · GitHub· Azure Queue · Serverless Kubernetes
